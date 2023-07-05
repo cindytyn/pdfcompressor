@@ -46,3 +46,5 @@ python compress_pdf.py
 - See PyPDF2 documentation under Lossless Compression section for the method used: https://pypdf2.readthedocs.io/en/3.0.0/user/file-size.html
 
 - Image quality reduction: By default, the code reduces the image quality to a value of 50. You can modify the quality value in the code to achieve different levels of compression and image quality.
+
+- Please note that this application was developed with the primary goal of achieving its intended purpose. It is important to be aware that extensive testing or consideration of edge cases may not have been conducted.
